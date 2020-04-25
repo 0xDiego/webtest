@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Estadísticas VGC Uruguay</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+		<h3>Estadísticas VGC Uruguay</h3>
+		<hr/>
+		<div>
+			<a href="index.html">Inicio</a> <b>|</b> <a href="Pages/TrnRes.html">Resultados por torneo</a> <b>|</b> 
+			<a href="Pages/PlyRes.html">Resultados por jugador</a> <b>|</b> <a href="Pages/H2H.html">Head to Head</a>
+		</div>
+		<hr/>
+		<p>WIP</p>
+	</body>
+</html>
