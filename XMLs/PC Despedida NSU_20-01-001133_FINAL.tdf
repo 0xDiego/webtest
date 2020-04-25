@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament type="3" stage="5" version="1.53" gametype="VIDEO_GAME" mode="VGCPREMIER">
+	<data>
+		<name>PC Despedida NSU</name>
+		<id>20-01-001133</id>
+		<city>Montevideo</city>
+		<state></state>
+		<country>Uruguay</country>
+		<roundtime>50</roundtime>
+		<finalsroundtime>50</finalsroundtime>
+		<organizer popid="1098949" name="Gabriel Abib"/>
+		<startdate>01/11/2020</startdate>
+		<lessswiss>false</lessswiss>
+		<autotablenumber>true</autotablenumber>
+		<overflowtablestart>21</overflowtablestart>
+	</data>
+	<timeelapsed>25520</timeelapsed>
+	<players>
+		<player userid="2338298">
+			<firstname>Gonzalo</firstname>
+			<lastname>Sintas</lastname>
+			<birthdate>06/03/1989</birthdate>
+			<starter>true</starter>
+			<order>2</order>
+			<seed>8</seed>
+			<creationdate>09/08/2018 10:27:59</creationdate>
+			<lastmodifieddate>09/08/2018 10:27:59</lastmodifieddate>
+		</player>
+		<player userid="3320459">
+			<firstname>Joaquin</firstname>
+			<lastname>Bello</lastname>
+			<birthdate>04/26/1994</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 12:46:53</creationdate>
+			<lastmodifieddate>01/11/2020 12:46:53</lastmodifieddate>
+		</player>
+		<player userid="2875582">
+			<firstname>Nicolás</firstname>
+			<lastname>García</lastname>
+			<birthdate>06/23/1989</birthdate>
+			<starter>true</starter>
+			<creationdate>03/31/2019 15:41:42</creationdate>
+			<lastmodifieddate>03/31/2019 20:54:19</lastmodifieddate>
+		</player>
+		<player userid="3212723">
+			<firstname>Abel</firstname>
+			<lastname>Saura</lastname>
+			<birthdate>03/03/1991</birthdate>
+			<starter>true</starter>
+			<order>3</order>
+			<seed>5</seed>
+			<creationdate>06/22/2018 19:04:21</creationdate>
+			<lastmodifieddate>01/11/2020 12:52:39</lastmodifieddate>
+		</player>
+		<player userid="3215547">
+			<firstname>Joel</firstname>
+			<lastname>Neighbour</lastname>
+			<birthdate>12/15/1990</birthdate>
+			<starter>true</starter>
+			<order>4</order>
+			<seed>4</seed>
+			<creationdate>01/11/2020 12:59:48</creationdate>
+			<lastmodifieddate>01/11/2020 12:59:48</lastmodifieddate>
+		</player>
+		<player userid="2479169">
+			<firstname>Fabian</firstname>
+			<lastname>Sorhuet</lastname>
+			<birthdate>03/04/1990</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 13:06:53</creationdate>
+			<lastmodifieddate>01/11/2020 13:06:53</lastmodifieddate>
+		</player>
+		<player userid="2650572">
+			<firstname>Santiago</firstname>
+			<lastname>Raya</lastname>
+			<birthdate>04/01/1997</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 13:09:26</creationdate>
+			<lastmodifieddate>01/11/2020 13:09:26</lastmodifieddate>
+		</player>
+		<player userid="3211776">
+			<firstname>Gabriel</firstname>
+			<lastname>Feola</lastname>
+			<birthdate>03/24/1991</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 13:10:28</creationdate>
+			<lastmodifieddate>01/11/2020 13:10:28</lastmodifieddate>
+		</player>
+		<player userid="3216153">
+			<firstname>Hernan</firstname>
+			<lastname>Garcia</lastname>
+			<birthdate>12/26/1989</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 13:50:32</creationdate>
+			<lastmodifieddate>01/11/2020 13:50:32</lastmodifieddate>
+		</player>
+		<player userid="2115398">
+			<firstname>Emanuel</firstname>
+			<lastname>Rodríguez</lastname>
+			<birthdate>07/22/1990</birthdate>
+			<starter>true</starter>
+			<order>5</order>
+			<seed>3</seed>
+			<creationdate>06/23/2018 10:32:24</creationdate>
+			<lastmodifieddate>06/23/2018 10:32:24</lastmodifieddate>
+		</player>
+		<player userid="1840542">
+			<firstname>Camilo</firstname>
+			<lastname>Pais</lastname>
+			<birthdate>04/02/1997</birthdate>
+			<starter>true</starter>
+			<creationdate>06/23/2018 10:33:10</creationdate>
+			<lastmodifieddate>06/23/2018 10:33:10</lastmodifieddate>
+		</player>
+		<player userid="3213094">
+			<firstname>Gaston</firstname>
+			<lastname>Barboza</lastname>
+			<birthdate>11/27/1992</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 13:51:33</creationdate>
+			<lastmodifieddate>01/11/2020 13:51:33</lastmodifieddate>
+		</player>
+		<player userid="1229889">
+			<firstname>Diego</firstname>
+			<lastname>Pisano</lastname>
+			<birthdate>09/13/1991</birthdate>
+			<starter>true</starter>
+			<order>7</order>
+			<seed>7</seed>
+			<creationdate>07/29/2018 15:14:26</creationdate>
+			<lastmodifieddate>07/29/2018 15:14:26</lastmodifieddate>
+		</player>
+		<player userid="1105571">
+			<firstname>Agustín</firstname>
+			<lastname>Marinucci</lastname>
+			<birthdate>02/04/1998</birthdate>
+			<starter>true</starter>
+			<creationdate>05/19/2019 18:17:20</creationdate>
+			<lastmodifieddate>05/19/2019 18:17:20</lastmodifieddate>
+		</player>
+		<player userid="3320462">
+			<firstname>Ignacio</firstname>
+			<lastname>Arzuaga</lastname>
+			<birthdate>12/17/1997</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 13:52:58</creationdate>
+			<lastmodifieddate>01/11/2020 13:52:58</lastmodifieddate>
+		</player>
+		<player userid="3320552">
+			<firstname>Emiliano</firstname>
+			<lastname>Turcatti Posente</lastname>
+			<birthdate>11/29/2008</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 14:01:38</creationdate>
+			<lastmodifieddate>01/11/2020 14:01:38</lastmodifieddate>
+		</player>
+		<player userid="3320532">
+			<firstname>Freddy</firstname>
+			<lastname>Gallo</lastname>
+			<birthdate>05/29/1988</birthdate>
+			<starter>true</starter>
+			<order>8</order>
+			<seed>2</seed>
+			<creationdate>01/11/2020 14:01:59</creationdate>
+			<lastmodifieddate>01/11/2020 14:01:59</lastmodifieddate>
+		</player>
+		<player userid="3320422">
+			<firstname>Padro</firstname>
+			<lastname>Heguy</lastname>
+			<birthdate>01/17/1997</birthdate>
+			<starter>true</starter>
+			<creationdate>01/11/2020 14:12:45</creationdate>
+			<lastmodifieddate>01/11/2020 14:12:45</lastmodifieddate>
+		</player>
+		<player userid="3320564">
+			<firstname>Pablo</firstname>
+			<lastname>Silva</lastname>
+			<birthdate>07/21/1991</birthdate>
+			<starter>true</starter>
+			<order>6</order>
+			<seed>6</seed>
+			<creationdate>01/11/2020 14:17:12</creationdate>
+			<lastmodifieddate>01/11/2020 14:17:12</lastmodifieddate>
+		</player>
+		<player userid="2743581">
+			<firstname>Diego</firstname>
+			<lastname>Iglesias</lastname>
+			<birthdate>09/07/1989</birthdate>
+			<starter>true</starter>
+			<order>1</order>
+			<seed>1</seed>
+			<creationdate>06/23/2018 11:58:28</creationdate>
+			<lastmodifieddate>09/15/2018 10:27:12</lastmodifieddate>
+		</player>
+		<player userid="2249364">
+			<firstname>Andrés</firstname>
+			<lastname>Buela</lastname>
+			<birthdate>10/05/1990</birthdate>
+			<starter>true</starter>
+			<creationdate>07/18/2018 18:25:19</creationdate>
+			<lastmodifieddate>07/18/2018 18:25:19</lastmodifieddate>
+		</player>
+	</players>
+	<pods>
+		<pod category="10" stage="1">
+			<poddata>
+				<startingtable>1</startingtable>
+				<playoff3rd4th>false</playoff3rd4th>
+				<subgroupcount>1</subgroupcount>
+			</poddata>
+			<subgroups>
+				<subgroup number="1">
+					<players>
+						<player userid="3320462" />
+						<player userid="1105571" />
+						<player userid="2338298" />
+						<player userid="3212723" />
+						<player userid="3320564" />
+						<player userid="3213094" />
+						<player userid="3211776" />
+						<player userid="3320532" />
+						<player userid="3320422" />
+						<player userid="1229889" />
+						<player userid="3320552" />
+						<player userid="3216153" />
+						<player userid="3215547" />
+						<player userid="2479169" />
+						<player userid="2875582" />
+						<player userid="1840542" />
+						<player userid="2249364" />
+						<player userid="2115398" />
+						<player userid="2650572" />
+						<player userid="3320459" />
+						<player userid="2743581" />
+					</players>
+				</subgroup>
+			</subgroups>
+			<rounds>
+				<round number="1" type="3" stage="6" >
+					<timeleft>1109</timeleft>
+					<matches>
+						<match outcome="5">
+							<player userid="2743581"/>
+							<timestamp>01/11/2020 14:53:51</timestamp>
+							<tablenumber>0</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2249364"/>
+							<player2 userid="3320532"/>
+							<timestamp>01/11/2020 15:31:24</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320459"/>
+							<player2 userid="2479169"/>
+							<timestamp>01/11/2020 15:20:34</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320422"/>
+							<player2 userid="2115398"/>
+							<timestamp>01/11/2020 15:30:48</timestamp>
+							<tablenumber>3</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3216153"/>
+							<player2 userid="2338298"/>
+							<timestamp>01/11/2020 15:35:47</timestamp>
+							<tablenumber>4</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="1229889"/>
+							<player2 userid="3215547"/>
+							<timestamp>01/11/2020 15:28:02</timestamp>
+							<tablenumber>5</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="1105571"/>
+							<player2 userid="3320564"/>
+							<timestamp>01/11/2020 15:31:17</timestamp>
+							<tablenumber>6</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2875582"/>
+							<player2 userid="3213094"/>
+							<timestamp>01/11/2020 15:20:29</timestamp>
+							<tablenumber>7</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320462"/>
+							<player2 userid="2650572"/>
+							<timestamp>01/11/2020 15:34:15</timestamp>
+							<tablenumber>8</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="1840542"/>
+							<player2 userid="3212723"/>
+							<timestamp>01/11/2020 15:26:52</timestamp>
+							<tablenumber>9</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3211776"/>
+							<player2 userid="3320552"/>
+							<timestamp>01/11/2020 15:18:56</timestamp>
+							<tablenumber>10</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="2" type="3" stage="6" >
+					<timeleft>558</timeleft>
+					<matches>
+						<match outcome="5">
+							<player userid="3213094"/>
+							<timestamp>01/11/2020 15:37:30</timestamp>
+							<tablenumber>0</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="1229889"/>
+							<player2 userid="2338298"/>
+							<timestamp>01/11/2020 16:21:32</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2875582"/>
+							<player2 userid="2115398"/>
+							<timestamp>01/11/2020 16:09:54</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2743581"/>
+							<player2 userid="3211776"/>
+							<timestamp>01/11/2020 16:19:52</timestamp>
+							<tablenumber>3</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3320564"/>
+							<player2 userid="2479169"/>
+							<timestamp>01/11/2020 16:03:06</timestamp>
+							<tablenumber>4</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3212723"/>
+							<player2 userid="2650572"/>
+							<timestamp>01/11/2020 15:57:39</timestamp>
+							<tablenumber>5</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3320532"/>
+							<player2 userid="3320459"/>
+							<timestamp>01/11/2020 15:57:10</timestamp>
+							<tablenumber>6</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320462"/>
+							<player2 userid="2249364"/>
+							<timestamp>01/11/2020 15:57:21</timestamp>
+							<tablenumber>7</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="1840542"/>
+							<player2 userid="1105571"/>
+							<timestamp>01/11/2020 16:04:40</timestamp>
+							<tablenumber>8</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3216153"/>
+							<player2 userid="3215547"/>
+							<timestamp>01/11/2020 15:57:59</timestamp>
+							<tablenumber>9</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3320422"/>
+							<player2 userid="3320552"/>
+							<timestamp>01/11/2020 15:52:17</timestamp>
+							<tablenumber>10</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="3" type="3" stage="6" >
+					<timeleft>832</timeleft>
+					<matches>
+						<match outcome="5">
+							<player userid="3320552"/>
+							<timestamp>01/11/2020 16:22:11</timestamp>
+							<tablenumber>0</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2338298"/>
+							<player2 userid="2743581"/>
+							<timestamp>01/11/2020 17:06:34</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2650572"/>
+							<player2 userid="2115398"/>
+							<timestamp>01/11/2020 16:58:42</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320532"/>
+							<player2 userid="3320564"/>
+							<timestamp>01/11/2020 16:54:40</timestamp>
+							<tablenumber>3</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3213094"/>
+							<player2 userid="3212723"/>
+							<timestamp>01/11/2020 16:47:22</timestamp>
+							<tablenumber>4</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="1229889"/>
+							<player2 userid="2875582"/>
+							<timestamp>01/11/2020 16:53:04</timestamp>
+							<tablenumber>5</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2479169"/>
+							<player2 userid="3320422"/>
+							<timestamp>01/11/2020 17:04:53</timestamp>
+							<tablenumber>6</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2249364"/>
+							<player2 userid="3215547"/>
+							<timestamp>01/11/2020 16:46:43</timestamp>
+							<tablenumber>7</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="1105571"/>
+							<player2 userid="3211776"/>
+							<timestamp>01/11/2020 16:52:58</timestamp>
+							<tablenumber>8</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320462"/>
+							<player2 userid="3320459"/>
+							<timestamp>01/11/2020 17:22:47</timestamp>
+							<tablenumber>9</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="1840542"/>
+							<player2 userid="3216153"/>
+							<timestamp>01/11/2020 16:48:38</timestamp>
+							<tablenumber>10</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="4" type="3" stage="6" >
+					<timeleft>965</timeleft>
+					<matches>
+						<match outcome="5">
+							<player userid="3320462"/>
+							<timestamp>01/11/2020 17:44:24</timestamp>
+							<tablenumber>0</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2115398"/>
+							<player2 userid="3320564"/>
+							<timestamp>01/11/2020 18:09:34</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2743581"/>
+							<player2 userid="3212723"/>
+							<timestamp>01/11/2020 18:08:54</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2650572"/>
+							<player2 userid="1229889"/>
+							<timestamp>01/11/2020 18:21:28</timestamp>
+							<tablenumber>3</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="1105571"/>
+							<player2 userid="3320532"/>
+							<timestamp>01/11/2020 18:21:34</timestamp>
+							<tablenumber>4</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2338298"/>
+							<player2 userid="3215547"/>
+							<timestamp>01/11/2020 18:21:56</timestamp>
+							<tablenumber>5</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2479169"/>
+							<player2 userid="1840542"/>
+							<timestamp>01/11/2020 18:21:43</timestamp>
+							<tablenumber>6</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3211776"/>
+							<player2 userid="3320422"/>
+							<timestamp>01/11/2020 18:36:13</timestamp>
+							<tablenumber>7</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2875582"/>
+							<player2 userid="2249364"/>
+							<timestamp>01/11/2020 18:05:09</timestamp>
+							<tablenumber>8</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3213094"/>
+							<player2 userid="3320459"/>
+							<timestamp>01/11/2020 18:38:58</timestamp>
+							<tablenumber>9</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320552"/>
+							<player2 userid="3216153"/>
+							<timestamp>01/11/2020 18:24:10</timestamp>
+							<tablenumber>10</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="5" type="3" stage="8" >
+					<timeleft>1468</timeleft>
+					<matches>
+						<match outcome="5">
+							<player userid="3216153"/>
+							<timestamp>01/11/2020 18:45:48</timestamp>
+							<tablenumber>0</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2115398"/>
+							<player2 userid="3320532"/>
+							<timestamp>01/11/2020 19:30:56</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="3320564"/>
+							<player2 userid="3215547"/>
+							<timestamp>01/11/2020 19:10:37</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2743581"/>
+							<player2 userid="1229889"/>
+							<timestamp>01/11/2020 19:30:49</timestamp>
+							<tablenumber>3</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3212723"/>
+							<player2 userid="2875582"/>
+							<timestamp>01/11/2020 19:13:22</timestamp>
+							<tablenumber>4</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2338298"/>
+							<player2 userid="3320459"/>
+							<timestamp>01/11/2020 19:35:57</timestamp>
+							<tablenumber>5</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2650572"/>
+							<player2 userid="1105571"/>
+							<timestamp>01/11/2020 19:11:11</timestamp>
+							<tablenumber>6</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="1840542"/>
+							<player2 userid="3320422"/>
+							<timestamp>01/11/2020 19:13:32</timestamp>
+							<tablenumber>7</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2479169"/>
+							<player2 userid="3211776"/>
+							<timestamp>01/11/2020 19:31:05</timestamp>
+							<tablenumber>8</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2249364"/>
+							<player2 userid="3213094"/>
+							<timestamp>01/11/2020 19:11:01</timestamp>
+							<tablenumber>9</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3320462"/>
+							<player2 userid="3320552"/>
+							<timestamp>01/11/2020 19:16:05</timestamp>
+							<tablenumber>10</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="6" type="1" stage="6" >
+					<timeleft>1956</timeleft>
+					<matches>
+						<match outcome="1">
+							<player1 userid="2743581"/>
+							<player2 userid="2338298"/>
+							<timestamp>01/11/2020 20:39:36</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="3212723"/>
+							<player2 userid="3215547"/>
+							<timestamp>01/11/2020 20:34:26</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="2115398"/>
+							<player2 userid="3320564"/>
+							<timestamp>01/11/2020 20:22:35</timestamp>
+							<tablenumber>3</tablenumber>
+						</match>
+						<match outcome="1">
+							<player1 userid="1229889"/>
+							<player2 userid="3320532"/>
+							<timestamp>01/11/2020 20:22:15</timestamp>
+							<tablenumber>4</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="7" type="1" stage="6" >
+					<timeleft>2993</timeleft>
+					<matches>
+						<match outcome="2">
+							<player1 userid="2743581"/>
+							<player2 userid="3212723"/>
+							<timestamp>01/11/2020 21:23:47</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+						<match outcome="2">
+							<player1 userid="2115398"/>
+							<player2 userid="1229889"/>
+							<timestamp>01/11/2020 21:23:49</timestamp>
+							<tablenumber>2</tablenumber>
+						</match>
+					</matches>
+				</round>
+				<round number="8" type="1" stage="8" >
+					<timeleft>2994</timeleft>
+					<matches>
+						<match outcome="2">
+							<player1 userid="3212723"/>
+							<player2 userid="1229889"/>
+							<timestamp>01/11/2020 21:59:09</timestamp>
+							<tablenumber>1</tablenumber>
+						</match>
+					</matches>
+				</round>
+			</rounds>
+		</pod>
+	</pods>
+	<standings>
+		<pod category="2" type="finished">
+			<player id="1229889" place="1" />
+			<player id="3212723" place="2" />
+			<player id="2743581" place="3" />
+			<player id="2115398" place="4" />
+			<player id="3320532" place="5" />
+			<player id="3215547" place="6" />
+			<player id="3320564" place="7" />
+			<player id="2338298" place="8" />
+			<player id="1105571" place="9" />
+			<player id="1840542" place="10" />
+			<player id="2479169" place="11" />
+			<player id="2650572" place="12" />
+			<player id="2875582" place="13" />
+			<player id="3216153" place="14" />
+			<player id="2249364" place="15" />
+			<player id="3320459" place="16" />
+			<player id="3320422" place="17" />
+			<player id="3320462" place="18" />
+			<player id="3211776" place="19" />
+			<player id="3213094" place="20" />
+		</pod>
+		<pod category="2" type="dnf">
+		</pod>
+		<pod category="1" type="finished">
+			<player id="3320552" place="1" />
+		</pod>
+		<pod category="1" type="dnf">
+		</pod>
+		<pod category="0" type="finished">
+		</pod>
+		<pod category="0" type="dnf">
+		</pod>
+	</standings>
+	<finalsoptions>
+		<categorycut key="2">
+			<options>
+				<value>0</value>
+				<value>2</value>
+				<value>4</value>
+				<value>8</value>
+			</options>
+			<cut>8</cut>
+			<playercount>20</playercount>
+			<paired3rd4th>false</paired3rd4th>
+		</categorycut>
+		<categorycut key="1">
+			<options>
+				<value>0</value>
+			</options>
+			<cut>0</cut>
+			<playercount>1</playercount>
+			<paired3rd4th>false</paired3rd4th>
+		</categorycut>
+		<categorycut key="0">
+			<options>
+				<value>0</value>
+				<value>2</value>
+				<value>4</value>
+				<value>8</value>
+			</options>
+			<cut>0</cut>
+			<playercount>21</playercount>
+			<paired3rd4th>false</paired3rd4th>
+		</categorycut>
+	</finalsoptions>
+</tournament>
