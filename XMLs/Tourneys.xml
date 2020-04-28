@@ -1,5 +1,5 @@
 <tournaments>
-  <data>https://0xdiego.github.io/webtest/XMLs/MSS%20Ninclub%20%231_20-02-001529_final.xml</data>
-  <data>https://0xdiego.github.io/webtest/XMLs/Circuito%20UY%20Online%20VGC%20%231_20-04-000001.xml</data>
-  <data>https://0xdiego.github.io/webtest/XMLs/VG%20Special%20Event%20Uruguay%202020_20-03-000246-FIN.xml</data>
+  <data>../XMLs/MSS%20Ninclub%20%231_20-02-001529_final.xml</data>
+  <data>../XMLs/Circuito%20UY%20Online%20VGC%20%231_20-04-000001.xml</data>
+  <data>../XMLs/VG%20Special%20Event%20Uruguay%202020_20-03-000246-FIN.xml</data>
 </tournaments>
