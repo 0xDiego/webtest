@@ -3,7 +3,7 @@ var files = fs.readdirSync('../XMLs/');
 
 var xmlhttp, xmlDoc;
 xmlhttp = new XMLHttpRequest();
-xmlhttp.open("GET", "https://0xdiego.github.io/webtest/XMLs/Tourneys.xml", false);
+xmlhttp.open("GET", "../XMLs/Tourneys.xml", false);
 xmlhttp.send();
 xmlDoc = xmlhttp.responseXML;
 
