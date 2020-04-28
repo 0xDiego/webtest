@@ -1,5 +1,5 @@
-const fs = require('fs');
-var files = fs.readdirSync('../XMLs/');
+//const fs = require('fs');
+//var files = fs.readdirSync('../XMLs/');
 
 var xmlhttp, xmlDoc;
 xmlhttp = new XMLHttpRequest();
